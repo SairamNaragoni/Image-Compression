@@ -1,2 +1,2 @@
 # Image-Compression
-An Image Compression Software
+*An Image Compression Software
